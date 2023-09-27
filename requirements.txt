@@ -1,0 +1,19 @@
+# Essential Data Science Packages
+pandas==2.1.0
+numpy==1.25.2
+
+# Machine Learning
+scikit-learn==1.3.0
+#auto-sklearn
+
+# Data Visualization
+matplotlib==3.8.0
+
+# Feature Engineering and statistical computing
+scipy==1.11.2
+
+# Feature Engineering and statistical computing
+ipykernel==6.25.2
+
+
+

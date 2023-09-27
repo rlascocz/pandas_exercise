@@ -1,0 +1,46 @@
+# Project Configuration
+
+# General settings
+project_name: Your_Project_Name
+project_description: A brief description of your project
+author: Your Name
+version: 1.0
+
+
+# Data paths
+data_paths:
+  raw_data: data/raw/
+  processed_data: data/processed/
+
+# Model paths
+model_paths:
+  model_dir: models/
+  train_dir: models/train/
+  test_dir: models/test/
+  predictive_dir: models/predictive/
+
+# Report paths
+report_paths:
+  report_dir: reports/
+  report_file: reports/report.md
+  technical_report: reports/technical_report.pdf
+  presentation: reports/presentation.pptx
+
+# Notebook paths
+notebook_paths:
+  notebook_dir: notebooks/
+
+# Visualization settings
+visualization:
+  plot_style: dark
+  plot_size: (10, 6)
+
+# Hyperparameters
+#hyperparameters:
+#  learning_rate: 0.001
+#  batch_size: 32
+#  epochs: 100
+
+# Other settings
+#debug_mode: true
+#log_level: INFO
